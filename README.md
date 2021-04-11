@@ -1,2 +1,5 @@
 # Google-Assistant-Actions
-This workshop introduces students to creating voice command actions and embed it into Google Assistant
+This workshop is inspired by Google CodeLabs Workshop: Build Actions with Google Assistant (Level 1)
+
+
+Workshop created by: Sagar Joshi and Sam Sandoval
