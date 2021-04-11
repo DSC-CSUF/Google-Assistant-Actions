@@ -8,9 +8,7 @@ Hello and welcome to the final workshop of the Spring semester as we explore in 
 
 ## Screenshot of the project
 
-![Demo](https://user-images.githubusercontent.com/55200206/114292251-ef1ae100-9a41-11eb-9e1d-5886392cf810.mp4)
-
-https://user-images.githubusercontent.com/55200206/114292222-c692e700-9a41-11eb-9e06-7b5b1230d53a.mp4
+![Test — Mozilla Firefox 2021-04-10 21-07-41_Trim](https://user-images.githubusercontent.com/55200206/114292325-9861d700-9a42-11eb-8680-a8b4d39f4960.gif)
 
 
 
