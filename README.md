@@ -7,7 +7,9 @@ Hello and welcome to the final workshop of the Spring semester as we explore in 
 - Create an account on [Google Action Console](https://console.actions.google.com/?pli=1)
 
 ## Screenshot of the project
-[![](https://user-images.githubusercontent.com/55200206/114292149-571cf780-9a41-11eb-9a6b-4d58dd28463e.mp4)]
+
+https://user-images.githubusercontent.com/55200206/114292222-c692e700-9a41-11eb-9e06-7b5b1230d53a.mp4
+
 
 
 
