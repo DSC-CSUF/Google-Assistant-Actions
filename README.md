@@ -6,7 +6,7 @@ Hello and welcome to the final workshop of the Spring semester as we explore in 
 ## Requirements for the project:
 - Create an account on [Google Action Console](https://console.actions.google.com/?pli=1)
 
-## Screenshot of the project
+## Demo of the project
 
 ![Test — Mozilla Firefox 2021-04-10 21-07-41_Trim](https://user-images.githubusercontent.com/55200206/114292325-9861d700-9a42-11eb-8680-a8b4d39f4960.gif)
 
